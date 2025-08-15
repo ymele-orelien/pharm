@@ -1,0 +1,9 @@
+<script src="/public/assets/js/apexcharts.min.js"></script>
+        <script src="/public/assets/js/bootstrap.bundle.min.js"></script>
+        <script src="/public/assets/js/chart.min.js"></script>
+        <script src="/public/assets/js/echarts.min.js"></script>
+        <script src="/public/assets/js/quill.min.js"></script>
+        <script src="/public/assets/js/simple-datatables.js"></script>
+        <script src="/public/assets/js/tinymce.min.js"></script>
+        <script src="/public/assets/js/validate.js"></script>
+        <script src="/public/assets/js/main.js"></script>
